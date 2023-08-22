@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Login</title>
+    <script>
+        function authenticate() {
+            var rollNumber = document.getElementById("rollNumber").value;
+            var password = document.getElementById("password").value;
+            if (rollNumber === password) {
+                alert("Login successful!");
+                window.location.href = "fdashboard.html";
+            } else {
+                alert("Incorrect credentials. Please try again.");
+            }
+        }
+    </script>
+</head>
+<body>
+    <h2>Student Login</h2>
+    <form>
+        <label for="rollNumber">id:</label>
+        <input type="text" id="rollNumber" name="rollNumber" required><br><br>
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        
+        <input type="button" value="Login" onclick="authenticate()">
+    </form>
+</body>
+</html>

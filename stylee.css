@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background-color: #fff;
+  }
+  
+  .container {
+    width: 900px;
+    margin: 0 auto;
+  }
+  
+  .sidebar {
+    width: 200px;
+    float: left;
+  }
+  
+  .main {
+    width: 700px;
+    float: right;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    line-height: 30px;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  

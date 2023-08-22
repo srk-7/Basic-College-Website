@@ -1,0 +1,74 @@
+<html>
+<body>
+<table border height=20 width=500 hspace=200 vspace=100 title="fee" frame="void" align=center>
+		<caption> DETAILED STRUCTURE </caption>
+		<thead>
+			<tr>
+				<th>s.no</th>
+				<th>branch</th>
+				<th>tution fee</th>
+				<th>bus fee</th>
+				<th>course fee</th>
+				<th>lib fee</th>
+			</tr>
+		</thead><br>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>CSE</td>
+				<td>125000</td>
+				<td>40000</td>
+				<td>6000</td>
+				<td>8000</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>IT</td>
+				<td>120000</td>
+				<td>35000</td>
+				<td>6000</td>
+				<td>7000</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>ECE</td>
+				<td>120000</td>
+				<td>36000</td>
+				<td>5000</td>
+				<td>9000</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>CIVIL</td>
+				<td>1440000</td>
+				<td>44000</td>
+				<td>6500</td>
+				<td>7000</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>AL&ML</td>
+				<td>140000</td>
+				<td>35000</td>
+				<td>6000</td>
+				<td>7000</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td>EEE</td>
+				<td>120000</td>
+				<td>35000</td>
+				<td>6000</td>
+				<td>7000</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>MECH</td>
+				<td>120000</td>
+				<td>35000</td>
+				<td>6000</td>
+				<td>7000</td>
+			</tr>
+		</table>
+	</body>
+</html>

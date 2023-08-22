@@ -1,0 +1,35 @@
+<html>
+<body>
+<a href="#BOTTOM">bottom</a>
+<a name="TOP"></a><br>
+<center><img src=logo.jpg align=center height=70 width=100></center>
+<h2 align=center title=college >VARDHAMAN COLLEGE OF ENGINEEERING</h2>
+<h4 align=center>An Autonomous Institution, Affiliated to JNTUH & Approved by AICTE<BR>
+Accredited by NAAC with A++ Grade</h4>
+<h5 align=center>Kacharam, Shamshabad<br><h5>
+<hr size=3 noshade></hr>
+<marquee width=100% bgcolor="red" scrolldelay=10>Admissions Open!!</marquee>
+<h2>About Vardhaman</h2>
+<p>Vardhaman College of Engineering (VCE) was established in the year 1999 by Vardhaman Educational Society, Hyderabad. It is a UGC Autonomous college, approved by AICTE, and is permanently affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad. We offer undergraduate B.Tech programmes in CSE, CSE (AI&ML), AI&ML, AI&DS, IT, ECE, EEE, ME and CE; postgraduate M.Tech programmes with specialisation in DECS, PEED, CSE, SE, and ED; MBA programme; and doctoral programmes in CSE, ECE and ME.</p>
+<h4><u>COLLEGE VIEW</u></h4>
+<center><img src="college.jpg" height=300 width=500></center>
+<br><br>
+<h4><u>CAMPUS RADIO</u></h4><CENTER>
+<audio controls autoplay=1>
+	<source src="audio.mp3" type="audio/mp3">
+		audio cant be handle
+</audio></CENTER><br><br>
+<h4><u>CAMPUS TOUR</u></h4>
+<CENTER>
+<video width=500 controls autoplay>
+	<source src="campustour.mp4" type="video/mp4">
+		video cant be handle
+</video></CENTER>
+<br>
+<br>
+<a href="https://vardhaman.org/" target="_blank">go to official account</a>
+<br><br><br>
+<a name="BOTTOM"></a>
+<a href="#TOP">top</a>
+</html>
+</body>

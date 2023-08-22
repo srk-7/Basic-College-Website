@@ -1,0 +1,267 @@
+<html>
+<head>
+	<title> TIME TABLE CSE_C </title>
+</head>
+<body>
+<img src="logo.png" height=60 width=80>
+<h2 align=center>VARDHAMAN COLLEGE OF ENGINEERING</h2>
+<h3 align=center>(AUTONOMOUS)</h3>
+<p align=center>Affiliated to JNTUH, Approved by AICTE, Accredited by NAAC with A++ Grade, ISO 9001:2015 Certified<br>
+Kacharam, Shamshabad, Hyderabad - 501218, Telangana, India</p>
+<h3 align=center>DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING</h3>
+<h4 align=center><u>TIMETABLE</u></h4>
+<h4 align=center>Academic Year: 2022 – 2023<br>
+B. Tech III Year I Semester CSE - C</h4>
+<h4 align=left>&nbsp &nbsp Room No:1313 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp With effect from: 15-09-2022</h4>
+	<table frame="void" border=3 height=200 width=1250 title="time table">
+		<tr align=center>
+			<td rowspan=2></td> <!first box-->
+			<td>9.10 AM<br>to<br>10.00 AM</td>
+			<td>10.00 AM<br>to<br>10.50 AM</td>
+			<td rowspan=8>B<br>R<br>E<br>A<br>K</th>
+			<td>11.00 AM<br>to<br>11.50 AM</td>
+			<td>11.50 AM<br>to<br>12.40 AM</td>
+			<td rowspan=8>L<br>U<br>N<br>C<br>H</td>
+			<td>1.30 PM<br>to<br>2.20 PM</td>
+			<td>2.20 PM<br>to<br>3.10 PM</td>
+			<td>3.10 PM<br>to<br>4.00 PM</td>
+		</tr>
+		<tr align=center>			
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+			<td>6</td>
+			<td>7</td>
+		</tr>
+		<tr align=center>
+			<td>MON</td>
+			<td>DAA<br>LSA</td>
+			<td>CDC(CC)<br>MDM</td>
+			<td colspan=2>CDC(CC)<br>MDM</td>
+			<td>ML<br>GRA</td>
+			<td>SPORTS</td>
+			<td>LIBRARY</td>
+		</tr>
+		<tr align=center>
+			<td>TUE</td>
+			<td>DAA<br>LSA</td>
+			<td>DMT<br>VPA</td>
+			<td>WT<br>ARH</td>
+			<td>PE-1<br>GSA/RUM/SVV</td>
+			<td colspan=3>WT(1003)/SE(1208A)<br>ARH,DDL/KPM,KTI</td>
+		</tr>
+		<tr align=center>
+			<td>WED</td>
+			<td colspan=2>ML(1002)/WT(1003)<br>GRA,GSA/ARH,DDL</td>
+			<td>ML(1002)/WT(1003)<br>GRA,GSA/ARH,DDL</td>
+			<td>PE-1<br>GSA/RUM/SVV</td>
+			<td>SE<br>KPM</td>
+			<td>WT<BR>ARH</td>
+			<td>DAA<BR>LSA</td>
+		</tr>
+		<tr align=center>
+			<td>THU</td>
+			<td>WT<br>ARH</td>
+			<td>SE<br>KPM</td>
+			<td>ML<br>GRA</td>
+			<td>PE-1<br>GSA/RUM/SVV</td>
+			<td>DMT<br>VPA</td>
+			<td>DAA<BR>LSA</td>
+			<td>EITK<BR>TDE</td>
+		</tr>		
+		<tr align=center>
+			<td>FRI</td>
+			<td colspan=2>PCS<br>ERK,AYV</td>
+			<td>PCS<br>ERK,AYV</td>
+			<td>DMT<br>VPA</td>
+			<td colspan=3>CDC(FSD)<br>MAB</td>
+		</tr>
+		<tr align=center>
+			<td>SAT</td>
+			<td>PE-1<br>GSA/RUM/SVV</td>
+			<td>DAA<BR>LSA</td>
+			<td>EITK<BR>TDE</td>
+			<td>MENTORING</td>
+			<td colspan=3>SE(1208A)/ML(1002)<br>KPM,KTI/GRA,GSA</td>
+		</tr>
+	</table><br>
+	<table border width=1250>
+	<tr>
+		<td>Class Advisor: Mr. A. Ramesh &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </td>
+	</tr>
+	</table>
+	<br>
+		<table align=left border=1 width=500>
+			<tr align=center>
+				<td colspan=3>Course Details</td>
+			</tr>
+			<tr align=center>
+				<td>Short Name</td>
+				<td>Course Code</td>
+				<td>Title of the Course</td>
+			</tr>
+			<tr align=center>
+				<td>ML</td>
+				<td>A6511</td>
+				<td>Machine Learning</td>
+			</tr>
+			<tr align=center>
+				<td>DAA</td>
+				<td>A6512</td>
+				<td>Design and Analysis of Algorithms</td>
+			</tr>
+			<tr align=center>
+				<td>WT</td>
+				<td>A6602</td>
+				<td>Web Technologies</td>
+			</tr>
+			<tr align=center>
+				<td>SE</td>
+				<td>A6603</td>
+				<td>Software Engineering </td>
+			</tr>
+			<tr align=center>
+				<td>DM(PE-I)</td>
+				<td>A6551</td>
+				<td>Data Mining</td>
+			</tr>
+			<tr align=center>
+				<td>RPADD(PE-I)</td>
+				<td>A6664</td>
+				<td>Robotic Process Automation Design<BR>and Development</td>
+			</tr>
+			<tr align=center>
+				<td>NSC(PE-I)</td>
+				<td>A6552</td>
+				<td>Network Security and Cryptography</td>
+			</tr>
+			<tr align=center>
+				<td>DMT(OE-I)</td>
+				<td>A6183</td>
+				<td>Disaster Management</td>
+			</tr>
+			<tr align=center>
+				<td>PCS</td>
+				<td>A6017</td>
+				<td>Professional Communication Skills</td>
+			</tr>
+			<tr align=center>
+				<td>IN-I</td>
+				<td>A6541</td>
+				<td>Internship-I</td>
+			</tr>
+			<tr align=center>
+				<td>EITK</td>
+				<td>A6034</td>
+				<td>Essence of Indian Traditional<BR>Knowledge</td>
+			</tr>
+			<tr align=center>
+				<td>CDC(CC)</td>
+				<td>--</td>
+				<td>CDC (Competitive Coding)</td>
+			</tr>
+			<tr align=center>
+				<td>CDC(FSD)</td>
+				<td>--</td>
+				<td>CDC (Full Stack Development)</td>
+			</tr>
+		</table>
+		<table border=1 align=center width=500>
+			<tr align=center>
+				<td colspan=2>Course Instructor Details</td>
+			</tr>
+			<tr align=center>
+				<td>Short Name</td>
+				<td>Name of Course Instructor</td>
+			</tr>
+			<tr align=center>
+				<td>GRA,GSA</td>
+				<td>Dr. G. R. Anil, Dr. G. Suryanarayana</td>
+			</tr>
+			<tr align=center>
+				<td>LSA</td>
+				<td>Ms. Lingam Sunitha</td>
+			</tr>
+			<tr align=center>
+				<td>ARH,DDL</td>
+				<td>Mr. A. Ramesh, Ms. D. Dhana Lakshmi</td>
+			</tr>
+			<tr align=center>
+				<td>KPM,KTI</td>
+				<td>Ms. Keerthi Pendam, Ms. Koti Tejaswi</td>
+			</tr>
+			<tr align=center>
+				<td>GSA</td>
+				<td>Dr. G. Suryanarayana</td>
+			</tr>
+			<tr align=center>
+				<td>RUM</td>
+				<td><br>Dr. R. Uma Mageswari</td>
+			</tr>
+			<tr align=center>
+				<td>SVV</td>
+				<td>Dr. S. V. Vasantha</td>
+			</tr>
+			<tr align=center>
+				<td>VPA</td>
+				<td>Mr. V. Priyanka</td>
+			</tr>
+			<tr align=center>
+				<td>ERK, AYV</td>
+				<td>Dr. E. Ranjit Kumar, Ms. Aarti Yadav</td>
+			</tr>
+			<tr align=center>
+				<td>LSA</td>
+				<td>Ms. Lingam Sunitha</td>
+			</tr>
+			<tr align=center>
+				<td>TDE</td>
+				<td><br>Ms. Tarala Deshpande</td>
+			</tr>
+			<tr align=center>
+				<td>MDM</td>
+				<td>Mr. Md. Manzoor</td>
+			</tr>
+			<tr align=center>
+				<td>MAB</td>
+				<td>Mr. M. Azhar Baig</td>
+			</tr>
+		</table><br>
+	<table border align=left width=500>
+	<tr>
+		<td>BREAK: 10.50 AM to 11.00AM</td>
+	</tr>
+	</table>
+	<table border align=center width=500>
+	<tr>
+		<td>LUNCH: 12.40 PM to  1.30 PM</td>
+	</tr>
+	</table>
+	<br>
+	<table border=1 align=left width=1250>
+			<tr height=70 >
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr align=center>
+				<td>HOD</td>
+				<td>CHEIF COORDINATOR(TT)</td>
+				<td>DEAN (ACADEMICS)</td>
+				<td>PRINCIPAL</td>
+			</tr>
+	</table>
+	<br><br><br><br><br>
+	<p><b>Copy to:</b></p>
+	<ol type="1">
+		<li>PA to Principal</li>
+		<li>Office to the Dean of Academics</li>
+		<li>Office of the controller of Examination</li>
+		<li>Display in Notice Boards</li>
+	</ol>
+</body>
+</html>
+	
